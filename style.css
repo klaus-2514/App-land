@@ -1,0 +1,106 @@
+*{
+    text-transform: capitalize;
+}
+nav{
+    height: 135px;
+    width: 100%;
+    display: flex;
+    background-color: #333;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navclass{
+    display: grid;
+    color: black;
+    display: inline-grid;
+}
+
+a{
+    display: flexbox;
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px 10px 8px;
+    margin-left: 150px;
+    margin-bottom: px;
+    text-decoration: none;
+    font-size: 17px;
+    text-align: center;
+}
+
+button{
+    color: white;
+    background-color:black;
+    padding: 10px 32px;
+    margin-top: 30px;
+}
+ul{
+    list-style-type: none;
+
+}
+
+#mainDiv{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50em;
+
+}
+
+.star3{
+    transform: translateY(-350px);
+}
+
+h1{
+    font-size: 90px;
+    transform: translateY(-400px);
+}
+
+p{
+    font-size: 28px;
+    transform: translateY(-350px);
+}
+
+.star8{
+    transform: translateY(-600px);
+}
+
+.zig{
+    transform: translate(-200px,-300px);
+}
+
+.together{
+    transform: translateY(-750px);
+
+}
+
+.laal{
+    transform: translate(800px,-1150px);
+}
+
+.oneRing{
+    transform: translate(800px,-1850px);
+}
+
+.last{
+    transform: translate(1100px,-2550px);
+}
+
+.middle{
+    transform: translate(1000px,-3280px);
+}
+
+.top{
+    transform: translate(800px,-4090px);
+}
+
+.downstar{
+    transform: translate(850px,-4750px);
+}
+
+.tiltstar{
+    transform: translate(250px,-4150px);
+}
